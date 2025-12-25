@@ -1,0 +1,5 @@
+{
+  "name": "Kinetic Typography Exploding Engine",
+  "description": "A high-performance interactive typography engine where text is composed of thousands of particles that react to mouse movements with physics-based explosion and reassembly effects.",
+  "requestFramePermissions": []
+}
